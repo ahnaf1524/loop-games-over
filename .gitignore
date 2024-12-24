@@ -7,6 +7,5 @@
 # Ignore input.txt and output.txt
 input.txt
 output.txt
-a.exe
 create_files.cpp
 tempCodeRunnerFile.cpp
